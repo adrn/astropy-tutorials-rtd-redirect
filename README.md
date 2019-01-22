@@ -1,1 +1,1 @@
-# astropy-tutorials-rtd-redirect
+This repository contains a simple RTD build that generates an index page with a redirect to the new [Learn Astropy](http://learn.astropy.org) site. This only exists to redirect users away from the old RTD build page.
